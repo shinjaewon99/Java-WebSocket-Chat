@@ -1,4 +1,4 @@
-package chat.bot;
+package chat.bot1;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
